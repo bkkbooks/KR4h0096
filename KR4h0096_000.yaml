@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0096/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0096_WYG_000-1a, image: WYG1372/WYG1372-0001a.png}
+body:
+  text: 廣州四先生詩總集類提要臣等謹案廣州四先生詩四卷不著編輯人姓名乃明初廣州黃哲李德王佐趙介四人之詩當時與同郡孫蕡並稱所謂南園五先生者也哲字庸之用薦拜翰林待制侍懿文太子讀書出知東阿縣升東平通判歸尋坐法死有雪篷集德字仲修洪武中用薦授雒陽長史官至義寧縣知縣有易菴集佐字彥舉本河東人元末侍父宦南雄遂占南籍洪武初徵至京師授給事中有聽雨軒瀛洲二集沒後稿多遺逸有詩一卷郡人彭森刻于建安介字伯貞讀書不樂仕進屢薦皆辭免以家纍逮赴京師卒于南昌舟中後以子純官贈監察御史有臨清集南園諸子中惟孫蕡集尚流傳四人著作已多散佚此乃後人甄輯之本萹帙無多然視他選差為詳備其間如哲之五言古體祖述齊梁德之七言長篇胎息溫李俱可自成一家惟佐氣骨稍卑未能驂駕介詩為陳廷器所稱賞許其有關世教而所存太少亦不足以見其全然粵東詩派諸人實開其先其提唱風雅之功有未可沒者故存之以著其槩焉乾隆四十五年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:1d7fb61451f21af6bf4d5433aca29873d24294440096272cec4a4b771e13cdc5
+metadata:
+  title: 廣州四先生詩
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:36:07.541477'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0096/KR4h0096_000.txt
+hash: sha256:65dd5ce0fefaaf92b414731a4d8aa925d345a37d5ac4086a535d8b8dceee2183
